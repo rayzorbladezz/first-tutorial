@@ -1,2 +1,0 @@
-# first-tutorial
-code-road
